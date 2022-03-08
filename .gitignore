@@ -17,7 +17,7 @@ Thumbs.db
 
 
 # compiled output
-/dist
+
 /tmp
 /out-tsc
 
